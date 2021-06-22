@@ -1,0 +1,23 @@
+body {
+    background-color: plum;
+}
+
+.player1_login,
+.player2_login {
+    background-color: powderblue;
+    float: none;
+    padding-top: 15px;
+    border-radius: 30px;
+    width: 50%;
+    margin-top: 15px;
+    height: 15%;
+}
+
+h3 {
+    font-size: 25px;
+    color: peru;
+}
+
+#math-quiz-image {
+    width: 36%;
+}
